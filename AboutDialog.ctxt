@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AboutDialog
+comment1.params=parent\ modal
+comment1.target=AboutDialog(java.awt.Frame,\ boolean)
+comment2.params=parent\ title\ modal
+comment2.target=AboutDialog(java.awt.Frame,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=void\ addNotify()
+comment4.params=b
+comment4.target=void\ setVisible(boolean)
+comment4.text=\n\ Shows\ or\ hides\ the\ component\ depending\ on\ the\ boolean\ flag\ b.\n\ @param\ b\ \ if\ true,\ show\ the\ component;\ otherwise,\ hide\ the\ component.\n\ @see\ java.awt.Component\#isVisible\n
+comment5.params=event
+comment5.target=void\ AboutDialog_WindowClosing(java.awt.event.WindowEvent)
+comment6.params=event
+comment6.target=void\ okButton_Clicked(java.awt.event.ActionEvent)
+numComments=7

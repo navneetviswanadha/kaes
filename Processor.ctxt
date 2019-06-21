@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=
+comment1.target=Processor()
+comment10.params=
+comment10.target=java.lang.String\ getStatus()
+comment2.params=op
+comment2.target=void\ insert(Operation)
+comment3.params=
+comment3.target=void\ init()
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=
+comment5.target=boolean\ resume()
+comment6.params=operation
+comment6.target=boolean\ execute(java.lang.String)
+comment7.params=operations
+comment7.target=boolean\ execute(StringVector)
+comment8.params=mode
+comment8.target=void\ setMode(int)
+comment9.params=s
+comment9.target=void\ setStatus(java.lang.String)
+numComments=11

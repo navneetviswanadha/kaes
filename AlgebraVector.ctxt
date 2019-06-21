@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AlgebraVector
+comment1.params=
+comment1.target=AlgebraVector()
+comment2.params=n
+comment2.target=AlgebraVector(int)
+comment3.params=n\ m
+comment3.target=AlgebraVector(int,\ int)
+comment4.params=i
+comment4.target=Algebra\ getSymbol(int)
+comment5.params=
+comment5.target=Algebra\ getFirst()
+comment6.params=
+comment6.target=Algebra\ getLast()
+comment7.params=
+comment7.target=Algebra\ getPrev()
+comment8.params=
+comment8.target=Algebra\ getNext()
+numComments=9

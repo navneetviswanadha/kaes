@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OperationControl
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=
+comment2.target=boolean\ resume()
+comment3.params=operation
+comment3.target=boolean\ execute(java.lang.String)
+comment4.params=operations
+comment4.target=boolean\ execute(StringVector)
+comment5.params=mode
+comment5.target=void\ setMode(int)
+numComments=6

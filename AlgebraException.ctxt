@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AlgebraException
+comment1.params=
+comment1.target=AlgebraException()
+comment2.params=s
+comment2.target=AlgebraException(java.lang.String)
+numComments=3

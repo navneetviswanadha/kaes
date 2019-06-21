@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=PreferencesDialog
+comment1.params=parent\ prefs\ modal
+comment1.target=PreferencesDialog(java.awt.Frame,\ Preferences,\ boolean)
+comment10.params=
+comment10.target=void\ doDialog()
+comment2.params=prefs
+comment2.target=StringVector\ getPrefKeys(Preferences)
+comment3.params=in
+comment3.target=java.lang.String\ makeName(java.lang.String)
+comment4.params=
+comment4.target=void\ addNotify()
+comment5.params=b
+comment5.target=void\ setVisible(boolean)
+comment5.text=\n\ Shows\ or\ hides\ the\ component\ depending\ on\ the\ boolean\ flag\ b.\n\ @param\ b\ \ if\ true,\ show\ the\ component;\ otherwise,\ hide\ the\ component.\n\ @see\ java.awt.Component\#isVisible\n
+comment6.params=event
+comment6.target=void\ PreferencesDialog_WindowClosing(java.awt.event.WindowEvent)
+comment7.params=event
+comment7.target=void\ helpButton_ActionPerformed(java.awt.event.ActionEvent)
+comment8.params=event
+comment8.target=void\ cancelButton_ActionPerformed(java.awt.event.ActionEvent)
+comment9.params=event
+comment9.target=void\ okButton_ActionPerformed(java.awt.event.ActionEvent)
+numComments=11

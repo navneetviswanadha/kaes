@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TextWindow
+comment1.params=title\ description\ content
+comment1.target=TextWindow(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=event
+comment10.target=void\ onevent_WindowClosing(java.awt.event.WindowEvent)
+comment2.params=title
+comment2.target=TextWindow(java.lang.String)
+comment3.params=title\ description
+comment3.target=TextWindow(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=TextWindow()
+comment5.params=text
+comment5.target=void\ setText(java.lang.String)
+comment6.params=text
+comment6.target=void\ setDescription(java.lang.String)
+comment7.params=
+comment7.target=void\ dispose()
+comment8.params=b
+comment8.target=void\ setVisible(boolean)
+comment8.text=\r\n\ Shows\ or\ hides\ the\ component\ depending\ on\ the\ boolean\ flag\ b.\r\n\ @param\ b\ \ if\ true,\ show\ the\ component;\ otherwise,\ hide\ the\ component.\r\n\ @see\ java.awt.Component\#isVisible\r\n
+comment9.params=
+comment9.target=void\ addNotify()
+numComments=11

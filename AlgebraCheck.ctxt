@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AlgebraCheck
+comment1.params=a
+comment1.target=AlgebraCheck(Algebra)
+comment2.params=
+comment2.target=boolean\ isTrue()
+comment3.params=
+comment3.target=void\ thenDo()
+comment4.params=
+comment4.target=void\ run()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LightenFilter
+comment0.text=\n\ An\ Image\ filter\ to\ use\ for\ lightening\ an\ Image\ a\ specified\ percentage.\n\ @version\ 1.1,\ July\ 8,\ 1997\n\ @author\ \ Symantec\n
+comment1.params=
+comment1.target=LightenFilter()
+comment1.text=\n\ Constructs\ a\ default\ LightenFilter.\n\ By\ default\ the\ Image\ is\ lightened\ 50%.\n\ @see\ \#LightenFilter(double)\n\ @see\ \#setPercent\n
+comment2.params=percent
+comment2.target=LightenFilter(double)
+comment2.text=\n\ Constructs\ a\ LightenFilter.\n\ @param\ percent\ the\ percent\ to\ lighten\ the\ image\ when\ filtering.\n\ @see\ \#LightenFilter()\n\ @see\ \#setPercent\n
+comment3.params=percent
+comment3.target=void\ setPercent(double)
+comment3.text=\n\ Sets\ the\ percentage\ to\ fade\ when\ filtering.\n\ @param\ percent\ the\ percentage\ to\ fade\n\ @exception\ IllegalArgumentException\n\ if\ the\ specified\ percentage\ value\ is\ unacceptable\n\ @see\ \#getPercent\n
+comment4.params=
+comment4.target=double\ getPercent()
+comment4.text=\n\ Gets\ the\ percentage\ to\ fade\ when\ filtering.\n\ @return\ the\ percentage\ to\ fade\n\ @see\ \#setPercent\n
+comment5.params=x\ y\ rgb
+comment5.target=int\ filterRGB(int,\ int,\ int)
+comment5.text=\n\ Filters\ an\ RGB\ value\ by\ the\ current\ lighten\ percentage.\n\ @param\ x\ unused\n\ @param\ y\ unused\n\ @param\ rgb\ the\ rgb\ value\ to\ lighten\n\ @return\ the\ lightened\ rgb\ value\n
+numComments=6

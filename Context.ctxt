@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Context
+comment0.text=\n\ This\ class\ tracks\ information\ relating\ to\ the\ Browser/Applet\ Viewer\ that\n\ the\ program\ is\ currently\ running\ under.\n\ it\ is\ used\ in\ conjunction\ with\ class\ symantec.itools.net.RelativeURL\ to\n\ provide\ URLs\ that\ are\ relative\ to\ an\ applet's\ or\ application's\ document\ base.\n\ For\ applets\ the\ document\ base\ is\ the\ URL\ of\ the\ document\ that\ the\ applet\ is\n\ embedded\ in.\ For\ applications\ the\ document\ base\ is\ the\ same\ as\ the\ user.dir\n\ system\ property.\n
+comment1.params=
+comment1.target=Context()
+comment1.text=\n\ Don't\ use,\ this\ is\ an\ all-static\ class.\n
+comment2.params=
+comment2.target=boolean\ isApplet()
+comment2.text=\n\ Returns\ true\ if\ this\ is\ being\ used\ with\ an\ applet,\n\ otherwise\ this\ is\ being\ used\ with\ an\ application.\n\ @see\ \#isApplication\n\ @see\ \#getApplet\n
+comment3.params=
+comment3.target=boolean\ isApplication()
+comment3.text=\n\ Returns\ true\ if\ this\ is\ being\ used\ with\ an\ application,\n\ otherwise\ this\ is\ being\ used\ with\ an\ applet.\n\ @see\ \#isApplet\n
+comment4.params=a
+comment4.target=void\ setApplet(java.applet.Applet)
+comment4.text=\n\ Notes\ the\ applet\ this\ class\ is\ being\ used\ with.\n\ @param\ a\ the\ applet\ to\ use\ this\ class\ with.\n\ @see\ \#getApplet\n
+comment5.params=
+comment5.target=java.applet.Applet\ getApplet()
+comment5.text=\n\ Returns\ the\ current\ applet,\ or\ null\ if\ being\ used\ with\ an\ application.\n\ @see\ \#setApplet\n
+comment6.params=db
+comment6.target=void\ setDocumentBase(java.net.URL)
+comment6.text=\n\ Manually\ sets\ the\ current\ document\ base.\n\ If\ the\ document\ base\ is\ not\ manually\ specified\ it\ will\ be\ automatically\n\ determined.\n\ @param\ db\ the\ new\ document\ base\n\ @see\ \#getDocumentBase\n
+comment7.params=
+comment7.target=void\ initializeApp()
+comment8.params=
+comment8.target=java.net.URL\ getDocumentBase()
+comment8.text=\n\ Returns\ the\ current\ document\ base.\n\ For\ applets\ the\ document\ base\ is\ the\ URL\ of\ the\ document\ that\ the\n\ applet\ is\ embedded\ in.\ For\ applications\ the\ document\ base\ is\ the\ same\ as\n\ the\ user.dir\ system\ property.\n\ @see\ \#setDocumentBase\n
+numComments=9

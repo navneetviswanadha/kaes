@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Operation
+comment1.params=
+comment1.target=Operation()
+comment2.params=name
+comment2.target=Operation(java.lang.String)
+comment3.params=frame
+comment3.target=java.lang.String\ run(KintermFrame)
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=test
+comment6.target=void\ setTest(boolean)
+comment7.params=
+comment7.target=boolean\ isTest()
+numComments=8

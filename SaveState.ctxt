@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SaveState
+comment1.params=target\ value\ comment
+comment1.target=SaveState(java.lang.Object,\ java.lang.Object,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.Object\ getTarget()
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+comment4.params=
+comment4.target=java.lang.Object\ getComment()
+numComments=5

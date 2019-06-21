@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RuleVector
+comment1.params=
+comment1.target=RuleVector()
+comment2.params=n
+comment2.target=RuleVector(int)
+comment3.params=n\ m
+comment3.target=RuleVector(int,\ int)
+comment4.params=i
+comment4.target=Rule\ getSymbol(int)
+comment5.params=
+comment5.target=Rule\ getSymbol()
+comment6.params=
+comment6.target=Rule\ getFirst()
+comment7.params=
+comment7.target=Rule\ getLast()
+comment8.params=
+comment8.target=Rule\ getPrev()
+comment9.params=
+comment9.target=Rule\ getNextSymbol()
+numComments=10

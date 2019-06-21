@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SpouseProductRule
+comment1.params=
+comment1.target=SpouseProductRule()
+comment2.params=flag
+comment2.target=void\ setActiveRule(boolean)
+comment3.params=
+comment3.target=boolean\ getActiveRule()
+comment4.params=a
+comment4.target=boolean\ doesRuleApply(AlgebraPath)
+comment4.text=\ rule\ applies\ if\ reduced\ path\ contains\ spouse\ element\r\n\ @a\ path\ to\ which\ the\ rule\ is\ to\ be\ applied\r\n\ return\ boolean\r\n
+comment5.params=a
+comment5.target=boolean\ applyRule(AlgebraPath)
+comment5.text=\ rule\ modifies\ CayleyTable\ according\ to\ marriage\ structure\r\n\ @a\ path\ to\ which\ the\ rule\ is\ to\ be\ applied\r\n\ return\ boolean\r\n
+comment6.params=asv
+comment6.target=int\ determineSpouseProductPattern(AlgebraSymbolVector)
+numComments=7

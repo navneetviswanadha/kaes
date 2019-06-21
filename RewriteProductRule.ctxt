@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=RewriteProductRule
+comment0.text=\r\n\ <p>Title\:\ </p>\r\n\ <p>Description\:\ </p>\r\n\ <p>Copyright\:\ Copyright\ (c)\ 2002</p>\r\n\ <p>Company\:\ </p>\r\n\ @Dwight\ Read\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=RewriteProductRule()
+comment10.params=a
+comment10.target=boolean\ applyRule(AlgebraPath)
+comment2.params=flag
+comment2.target=void\ setActiveRule(boolean)
+comment3.params=
+comment3.target=boolean\ getActiveRule()
+comment4.params=as1\ as2
+comment4.target=void\ setEquivalentProducts(AlgebraSymbolVector,\ AlgebraSymbolVector)
+comment5.params=
+comment5.target=ListVector\ getEquivalentProducts()
+comment6.params=gen\ asv0
+comment6.target=boolean\ inProducts(AlgebraSymbol,\ AlgebraSymbolVector)
+comment7.params=a
+comment7.target=boolean\ doesRuleApply(CayleyInfo)
+comment7.text=\ rule\ applies\ to\ products\:\ oldermalesib\ I\ female,\ youngermalesib\ i\ female\r\n\ olderfemalesib\ i\ male,\ youngerfemalesib\ i\ male\r\n\ @a\ CayleyInfo\ the\ path\ to\ be\ tested\ for\ applicability\ of\ rule\r\n\ return\ boolean\r\n
+comment8.params=a
+comment8.target=boolean\ doesRuleApply(AlgebraPath)
+comment8.text=\ rule\ applies\ if\ x\ equivalent\ to\ y\ and\ a\ \=\ x\ or\ a\ \=\ y\r\n\ sex\ and\ generation\r\n\ @a\ CayleyInfo\ the\ path\ to\ be\ tested\ for\ applicability\ of\ rule\r\n\ return\ boolean\r\n
+comment9.params=a
+comment9.target=boolean\ applyRule(CayleyInfo)
+numComments=11

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Variables
+comment1.params=varname
+comment1.target=java.lang.String\ getVarValue(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toXML()
+comment2.params=deep
+comment2.target=java.lang.Object\ clone(boolean)
+comment3.params=
+comment3.target=java.lang.Object\ clone()
+comment4.params=varname
+comment4.target=java.lang.String\ getRareVarValue(java.lang.String)
+comment5.params=varname
+comment5.target=ListVector\ getLiteralVarValue(java.lang.String)
+comment6.params=varname\ value
+comment6.target=void\ addVarValue(java.lang.String,\ java.lang.Object)
+comment7.params=varname\ value
+comment7.target=void\ setVarValue(java.lang.String,\ java.lang.Object)
+comment8.params=
+comment8.target=void\ normaliseSize()
+comment9.params=x
+comment9.target=boolean\ equals(Variables)
+numComments=11

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ArrowChoices
+comment1.params=
+comment1.target=ArrowChoices()
+comment2.params=comp\ constraints\ index
+comment2.target=void\ addImpl(java.awt.Component,\ java.lang.Object,\ int)
+comment2.text=\r\n\ We\ override\ this\ method\ so\ that\ nothing\ gets\ added\ to\ this\ component\r\n\ @param\ comp\ the\ component\ to\ be\ added\r\n\ @param\ constraints\ an\ object\ expressing\ layout\ contraints\ for\ this\r\n\ component\r\n\ @param\ index\ the\ position\ in\ the\ container's\ list\ at\ which\ to\r\n\ insert\ the\ component.\ \ -1\ means\ insert\ at\ the\ end.\r\n\ @see\ \#remove\r\n\ @see\ LayoutManager\r\n
+comment3.params=currentArrow
+comment3.target=void\ setCurrentArrow(int)
+comment4.params=
+comment4.target=int\ getCurrentArrow()
+comment5.params=arrowFeature
+comment5.target=void\ setArrowFeature(int[])
+comment6.params=
+comment6.target=int[]\ getArrowFeature()
+comment7.params=a\ b
+comment7.target=void\ setArrowFeature(int,\ int)
+comment8.params=a
+comment8.target=int\ getArrowFeature(int)
+numComments=9

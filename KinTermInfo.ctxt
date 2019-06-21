@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=KinTermInfo
+comment0.text=\ An\ information\ structure\ used\ by\ KinTermMap\n
+comment1.params=term
+comment1.target=KinTermInfo(KinTerm)
+comment1.text=\ create\ information\ structure\ for\ a\ kin\ term\ in\ a\ specific\ kin\ term\ map\n\ @param\ term\ the\ kin\ term\ associate\ with\ this\ KTInfo\ structure\n
+comment2.params=term\ sex
+comment2.target=KinTermInfo(java.lang.String,\ java.lang.String)
+comment2.text=\ create\ information\ structure\ for\ a\ kin\ term\ in\ a\ specific\ kin\ term\ map\n\ @param\ term\ the\ kin\ term\ associate\ with\ this\ KTInfo\ structure\n
+comment3.params=gen
+comment3.target=KinTermVector\ mapGenToTerms(KinTerm)
+comment3.text=\ get\ kin\ terms\ associated\ with\ generator\n\ @param\ gen\ generator\n\ @return\ KinTermVector\ of\ assoicated\ kin\ terms\n
+comment4.params=term
+comment4.target=KinTerm\ mapTermToGen(KinTerm)
+comment4.text=\ get\ generator\ associated\ with\ kin\ term\n\ @param\ term\ kin\ term\n\ @return\ generator\ associated\ with\ kin\ term\n
+comment5.params=gen\ newterm
+comment5.target=void\ addGenTerm(KinTerm,\ KinTerm)
+comment5.text=\ add\ or\ modify\ generator-term\ mapping\n\ if\ neither\ exists\ add\ the\ pair\n\ if\ generator\ exists\ and\ kin\ term\ exists\ throw\ exception\ unless\ they\ are\ already\ assoicated\n\ if\ generator\ exists\ and\ kin\ term\ does\ not\ change\ the\ kin\ term\ for\ generator\n\ if\ kin\ term\ exists\ and\ generator\ does\ not\ change\ the\ generator\ for\ kin\ term\n\ @param\ gen\ generating\ term\n\ @param\ newterm\ term\ mapping\ for\ generator\ relative\ to\ this\ kin\ term\n
+comment6.params=kinterm
+comment6.target=void\ removeKinTerm(KinTerm)
+comment6.text=\ remove\ generator-term\ mapping\ \n\ removes\ from\ list\ of\ unique\ generators\ if\ only\ instance\ of\ generator\ associated\ with\ kin\ term\n\ @param\ kinterm\ kin\ term\n
+numComments=7

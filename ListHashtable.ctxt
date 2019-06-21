@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ListHashtable
+comment1.params=key\ a
+comment1.target=ListVector\ putInList(java.lang.Object,\ java.lang.Object)
+comment2.params=key
+comment2.target=ListVector\ getList(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

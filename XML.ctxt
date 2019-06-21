@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=XML
+comment1.params=o
+comment1.target=java.lang.String\ getTag(java.lang.Object)
+comment2.params=o
+comment2.target=java.lang.String\ toXML(java.lang.Object)
+comment3.params=o\ b
+comment3.target=java.lang.String\ toXML(java.lang.Object,\ boolean)
+comment4.params=o
+comment4.target=java.lang.String\ getXMLFields(java.lang.Object)
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MapProperties
+comment0.text=\r\n\ <p>Title\:\ </p>\r\n\ <p>Description\:\ </p>\r\n\ <p>Copyright\:\ Copyright\ (c)\ 2002</p>\r\n\ <p>Company\:\ </p>\r\n\ @author\ Dwight\ Read\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=MapProperties()
+comment2.params=
+comment2.target=boolean\ testMapForCrossProductEquations()
+comment3.params=
+comment3.target=boolean\ testMapForLinealDescendantRule()
+comment3.text=\ Checks\ the\ map\ to\ see\ if\ equations\ of\ the\ form\ son\ of\ sibling\ \=\ daughter\ of\ siblilng\r\n\ are\ valid\ in\ the\ kin\ term\ map.\r\n\ @return\ boolean\ flag\r\n
+comment4.params=
+comment4.target=boolean\ testMapForSiblingInLawEquations()
+comment5.params=
+comment5.target=boolean\ testMapForParentOfChildInLawEquations()
+comment6.params=
+comment6.target=boolean\ testMapForSingleChildRule()
+comment7.params=t1\ t2\ t3
+comment7.target=StringVector\ termProduct(TransferKinInfoVector,\ TransferKinInfoVector,\ TransferKinInfoVector)
+comment8.params=t1\ t2
+comment8.target=StringVector\ termProduct(TransferKinInfoVector,\ TransferKinInfoVector)
+numComments=9

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=HelpFrame
+comment1.params=
+comment1.target=HelpFrame()
+comment2.params=title
+comment2.target=HelpFrame(java.lang.String)
+comment3.params=b
+comment3.target=void\ setVisible(boolean)
+comment3.text=\r\n\ Shows\ or\ hides\ the\ component\ depending\ on\ the\ boolean\ flag\ b.\r\n\ @param\ b\ \ if\ true,\ show\ the\ component;\ otherwise,\ hide\ the\ component.\r\n\ @see\ java.awt.Component\#isVisible\r\n
+comment4.params=
+comment4.target=void\ addNotify()
+comment5.params=event
+comment5.target=void\ HelpFrame_WindowClosing(java.awt.event.WindowEvent)
+comment6.params=event
+comment6.target=void\ dismissButton_ActionPerformed(java.awt.event.ActionEvent)
+comment7.params=helpItem
+comment7.target=void\ doHelp(java.lang.String)
+comment8.params=event
+comment8.target=void\ helpMenuItem_ActionPerformed(java.awt.event.ActionEvent)
+numComments=9

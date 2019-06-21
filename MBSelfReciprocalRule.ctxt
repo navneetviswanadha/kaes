@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MBSelfReciprocalRule
+comment1.params=
+comment1.target=MBSelfReciprocalRule()
+comment2.params=flag
+comment2.target=void\ setActiveRule(boolean)
+comment3.params=
+comment3.target=boolean\ getActiveRule()
+comment4.params=a
+comment4.target=boolean\ doesRuleApply(AlgebraPath)
+comment4.text=\ rule\ applies\ if\ reduced\ path\ is\ "Child"\ and\ reciprocal\ of\ path\ is\r\n\ not\ "Parent"\ and\ is\ not\ a\ focal\ element\ and\ is\ not\ "0"\r\n\ @a\ path\ to\ which\ the\ rule\ is\ to\ be\ applied\r\n\ return\ boolean\r\n
+comment5.params=a
+comment5.target=boolean\ applyRule(AlgebraPath)
+comment5.text=\ rule\ modifies\ CayleyTable\ so\ that\ element\ is\ now\ self-reciprocal\r\n\ @a\ path\ to\ which\ the\ rule\ is\ to\ be\ applied\r\n\ return\ boolean\r\n
+comment6.params=
+comment6.target=CrowSkewingRule\ getCrowSkewingRule()
+numComments=7

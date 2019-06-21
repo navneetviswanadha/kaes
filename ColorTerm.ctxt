@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ColorTerm
+comment1.params=
+comment1.target=ColorTerm()
+comment2.params=c
+comment2.target=ColorTerm(java.awt.Color)
+comment3.params=term
+comment3.target=ColorTerm(java.lang.Object)
+comment4.params=c\ term
+comment4.target=ColorTerm(java.awt.Color,\ java.lang.Object)
+comment5.params=term
+comment5.target=void\ setTheTerm(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.Object\ getTheTerm()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=c
+comment8.target=void\ setTheColor(java.awt.Color)
+comment9.params=
+comment9.target=java.awt.Color\ getTheColor()
+numComments=10

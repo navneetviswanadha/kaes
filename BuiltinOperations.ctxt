@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=BuiltinOperations
+comment0.text=\ History\r\n\ 11/21\ DR\ added\ NONE\ \=\ KintermEditObject.NONE;\r\n
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=
+comment2.target=boolean\ exec()
+comment3.params=start
+comment3.target=boolean\ exec(int)
+comment4.params=opcodes
+comment4.target=boolean\ exec(int[])
+comment5.params=code
+comment5.target=boolean\ execOpcode(int)
+comment6.params=
+comment6.target=boolean\ resume()
+comment7.params=
+comment7.target=void\ setupUndo()
+comment8.params=
+comment8.target=void\ doUndo()
+numComments=9

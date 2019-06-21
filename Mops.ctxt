@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Mops
+comment1.params=
+comment1.target=Mops()
+comment10.params=a
+comment10.target=int\ getMyOpcodes(int)
+comment2.params=a
+comment2.target=Mops(KintermFrame)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=TransferKinInfoVector\ pop()
+comment5.params=
+comment5.target=void\ push()
+comment6.params=
+comment6.target=void\ makeNewPanel()
+comment7.params=myOpcodes
+comment7.target=void\ setMyOpcodes(int[])
+comment8.params=
+comment8.target=int[]\ getMyOpcodes()
+comment9.params=a\ b
+comment9.target=void\ setMyOpcodes(int,\ int)
+numComments=11

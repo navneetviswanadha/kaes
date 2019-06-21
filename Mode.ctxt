@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mode
+comment1.params=m
+comment1.target=void\ setMode(int)
+comment2.params=
+comment2.target=int\ getMode()
+comment3.params=m
+comment3.target=boolean\ is(int)
+numComments=4

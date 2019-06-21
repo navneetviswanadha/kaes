@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KintermEntryVector
+comment1.params=
+comment1.target=KintermEntryVector()
+comment2.params=n
+comment2.target=KintermEntryVector(int)
+comment3.params=n\ m
+comment3.target=KintermEntryVector(int,\ int)
+comment4.params=i
+comment4.target=KintermEntry\ getSymbol(int)
+numComments=5

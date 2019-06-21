@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SpouseSiblingRule
+comment1.params=flag
+comment1.target=void\ setActiveRule(boolean)
+comment2.params=
+comment2.target=boolean\ getActiveRule()
+comment3.params=a
+comment3.target=boolean\ doesRuleApply(AlgebraPath)
+comment3.text=\ rule\ applies\ if\ reduced\ path\ is\ spouse\ of\ sibling\r\n\ @a\ path\ to\ which\ the\ rule\ is\ to\ be\ applied\r\n\ return\ boolean\r\n
+comment4.params=a
+comment4.target=boolean\ applyRule(AlgebraPath)
+comment4.text=\ rule\ modifies\ CayleyTable\ so\ that\ spouse\ of\ sibling\ is\ sibling\r\n\ @a\ path\ to\ which\ the\ rule\ is\ to\ be\ applied\r\n\ return\ boolean\r\n
+numComments=5

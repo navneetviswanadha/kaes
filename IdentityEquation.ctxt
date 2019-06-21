@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IdentityEquation
+comment1.params=
+comment1.target=IdentityEquation()
+comment2.params=i
+comment2.target=void\ addIdentityElement(AlgebraSymbol)
+numComments=3

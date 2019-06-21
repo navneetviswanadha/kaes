@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RelativeURL
+comment0.text=\n\ This\ class\ is\ used\ in\ conjunction\ with\ class\ symantec.itools.OS.Context\ to\n\ provide\ URLs\ that\ are\ relative\ to\ an\ applet's\ or\ application's\n\ document\ base.\ For\ applets\ the\ document\ base\ is\ the\ URL\ of\ the\ document\n\ that\ the\ applet\ is\ embedded\ in.\ For\ applications\ the\ document\ base\ is\ the\n\ same\ as\ the\ user.dir\ system\ property.\n
+comment1.params=
+comment1.target=RelativeURL()
+comment1.text=\n\ Don't\ use,\ this\ is\ an\ all-static\ class.\n
+comment2.params=spec
+comment2.target=java.net.URL\ getURL(java.lang.String)
+comment2.text=\n\ Determines\ the\ absolute\ URL\ given\ a\ relative\ URL.\n\ If\ the\ spec\ parameter\ is\ relative,\ it\ is\ considered\ to\ be\ relative\n\ to\ the\ current\ document\ base\ as\ determined\ by\ getDocumentBase()\ in\n\ class\ symantec.itools.lang.Context.\n\n\ @param\ spec\ a\ possibly\ relative\ URL\n\ @return\ the\ absolute\ URL\ equivalent\ to\ the\ given\ relativeURL\n\ @exception\ MalformedURLException\n\ if\ cannot\ generate\ the\ resultant\ URL\ due\ to\ a\ bad\ spec\ parameter\n\ or\ a\ bad\ document\ base\n
+numComments=3

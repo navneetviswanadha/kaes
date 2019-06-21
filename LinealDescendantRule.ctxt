@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LinealDescendantRule
+comment1.params=
+comment1.target=LinealDescendantRule()
+comment2.params=theProd
+comment2.target=AlgebraPath\ rewriteProduct(java.lang.String)
+comment3.params=flag
+comment3.target=void\ setActiveRule(boolean)
+comment4.params=
+comment4.target=boolean\ getActiveRule()
+comment5.params=a
+comment5.target=boolean\ doesRuleApply(CayleyInfo)
+comment5.text=\ rule\ applies\ if\ a\ is\ of\ form\ generator\ of\ term\ \=\ product\ where\r\n\ generator\ is\ down\ arrow\ and\ generation\ of\ term\ <\=\ 0\ or\r\n\ generator\ is\ up\ arrow\ and\ term\ is\ of\ form\ XXX\ and\ generation\ of\ product\ <\=\ 0\r\n\ @a\ CayleyInfo\ the\ path\ to\ be\ tested\ for\ applicability\ of\ rule\r\n\ return\ boolean\r\n
+comment6.params=a
+comment6.target=boolean\ applyRule(CayleyInfo)
+comment6.text=\ rule\ modifies\ CayleyTable\ so\ that\ So\ and\ Da\ of\ a\ zero\ or\ negative\ generation\r\n\ element\ is\ mapped\ to\ the\ same\ element;\ has\ the\ effect\ of\ erasing\ the\r\n\ distinction\ between\ So\ and\ Da\r\n\ @a\ path\ to\ which\ the\ rule\ is\ to\ be\ applied\r\n\ return\ boolean\r\n
+comment7.params=asv\ as
+comment7.target=AlgebraSymbolVector\ addEndElement(AlgebraSymbolVector,\ AlgebraSymbol)
+numComments=8

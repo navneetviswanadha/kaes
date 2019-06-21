@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MakeSimpler
+comment1.params=
+comment1.target=MakeSimpler()
+comment2.params=f
+comment2.target=java.lang.String\ run(KintermFrame)
+comment3.params=tk
+comment3.target=TransferKinInfoVector\ noAffines(TransferKinInfoVector)
+numComments=4

@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.target=Aops
+comment0.text=\ Change\ history\r\n\ 3/7\ MF\tCommentted\ out\ references\ to\ Algebra.popCurrent()\ which\ are\ no\r\n\t\t\tlonger\ required\r\n\ 10/6\ DR\ added\ procedure\ resetTransferKinInfo()\ to\ update\ to\ current\ tk\r\n
+comment1.params=
+comment1.target=Aops()
+comment10.params=
+comment10.target=int[]\ getMyOpcodes()
+comment11.params=a\ b
+comment11.target=void\ setMyOpcodes(int,\ int)
+comment12.params=a
+comment12.target=int\ getMyOpcodes(int)
+comment13.params=
+comment13.target=void\ makeNewPanel()
+comment14.params=
+comment14.target=void\ pushAKM()
+comment15.params=
+comment15.target=Aops.AlgebraKMData\ popAKM()
+comment2.params=a
+comment2.target=Aops(KintermFrame)
+comment3.params=
+comment3.target=void\ resetAlgebra()
+comment4.params=
+comment4.target=void\ init()
+comment5.params=
+comment5.target=void\ reset()
+comment6.params=
+comment6.target=void\ resetTransferKinInfo()
+comment7.params=
+comment7.target=void\ setTheAlgebraFromFrame()
+comment8.params=
+comment8.target=void\ getAlg()
+comment9.params=myOpcodes
+comment9.target=void\ setMyOpcodes(int[])
+comment9.text=\r\n\tTransferKinInfoVector\ pop()\ {\r\n\t\tif\ (theKinVectors.size()\ \!\=\ 0)\ {\r\n\t\t\ttk\ \=\ (TransferKinInfoVector)\ theKinVectors.lastElement();\r\n\t\t\ttheKinVectors.removeElementAt(theKinVectors.size()-1);\r\n\t\t\treturn\ tk;\r\n\t\t}\ else\ {\r\n\t\t\ttk\ \=\ null;\r\n\t\t\tgetTk();\r\n\t\t\treturn\ null;\r\n\t\t}\r\n\t}\r\n\r\n\tvoid\ push()\ {\r\n\t\ttheKinVectors.addElement(tk);\r\n\t\ttk\ \=\ (TransferKinInfoVector)\ tk.clone(true);\r\n\t}\r\n
+numComments=16

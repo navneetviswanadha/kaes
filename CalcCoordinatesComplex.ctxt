@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CalcCoordinatesComplex
+comment0.text=\r\n\ <p>Title\:\ </p>\r\n\ <p>Description\:\ </p>\r\n\ <p>Copyright\:\ Copyright\ (c)\ 2002</p>\r\n\ <p>Company\:\ </p>\r\n\ @author\ unascribed\r\n\ @version\ 1.0\r\n
+comment1.params=cc
+comment1.target=CalcCoordinatesComplex(CayleyTable)
+comment2.params=
+comment2.target=void\ calcCoordinates()
+numComments=3

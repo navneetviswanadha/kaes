@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VariablesFactory
+comment1.params=name
+comment1.target=void\ defineVariable(java.lang.String)
+comment2.params=name
+comment2.target=Variable\ newVariableInstance(java.lang.String)
+comment3.params=name\ value
+comment3.target=Variable\ newVariableInstance(java.lang.String,\ java.lang.Object)
+comment4.params=
+comment4.target=Variables\ newVariableSet()
+comment5.params=
+comment5.target=java.lang.String\ toXML()
+numComments=6

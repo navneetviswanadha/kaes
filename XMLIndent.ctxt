@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=XMLIndent
+comment1.params=
+comment1.target=int\ getLevel()
+comment2.params=
+comment2.target=int\ getTab()
+comment3.params=i
+comment3.target=void\ setLevel(int)
+comment4.params=i
+comment4.target=void\ setTab(int)
+comment5.params=
+comment5.target=int\ getIndent()
+comment6.params=
+comment6.target=java.lang.String\ getSpace()
+comment7.params=
+comment7.target=void\ increment()
+comment8.params=
+comment8.target=void\ decrement()
+comment9.params=s
+comment9.target=java.lang.String\ pp(java.lang.String)
+numComments=10

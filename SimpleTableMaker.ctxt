@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SimpleTableMaker
+comment1.params=title\ data\ columnNames
+comment1.target=SimpleTableMaker(java.lang.String,\ java.lang.Object[][],\ java.lang.String[])
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=title\ theData\ theColumnNames
+comment3.target=SimpleTableMaker(java.lang.String,\ java.util.Vector,\ java.util.Vector)
+comment4.params=e
+comment4.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment5.params=table
+comment5.target=void\ printDebugData(Table)
+numComments=6

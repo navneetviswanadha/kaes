@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MessageLine
+comment1.params=
+comment1.target=MessageLine()
+comment2.params=m
+comment2.target=MessageLine(Message)
+comment3.params=
+comment3.target=void\ setBackgroundColour()
+comment4.params=
+comment4.target=java.awt.Dimension\ getMinimumSize()
+comment4.text=\ \r\n\ Returns\ the\ minimum\ size\ of\ this\ container.\ \ \r\n\ @see\ \#getPreferredSize\r\n
+comment5.params=
+comment5.target=java.awt.Dimension\ getPreferredSize()
+comment5.text=\ \r\n\ Returns\ the\ preferred\ size\ of\ this\ container.\ \ \r\n\ @see\ \#getMinimumSize\r\n
+comment6.params=
+comment6.target=void\ addToMessenger()
+comment7.params=event
+comment7.target=void\ actionButton_ActionPerformed(java.awt.event.ActionEvent)
+comment8.params=g
+comment8.target=void\ paint(java.awt.Graphics)
+comment8.text=\ \r\n\ Paints\ the\ container.\ \ This\ forwards\ the\ paint\ to\ any\ lightweight\ components\ \r\n\ that\ are\ children\ of\ this\ container.\ \ If\ this\ method\ is\ reimplemented,\ \r\n\ super.paint(g)\ should\ be\ called\ so\ that\ lightweight\ components\ are\ properly\r\n\ rendered.\ \ If\ a\ child\ component\ is\ entirely\ clipped\ by\ the\ current\ clipping\r\n\ setting\ in\ g,\ paint()\ will\ not\ be\ forwarded\ to\ that\ child.\r\n\r\n\ @param\ g\ the\ specified\ Graphics\ window\r\n\ @see\ \ \ java.awt.Component\#update(java.awt.Graphics)\r\n
+comment9.params=m
+comment9.target=void\ go(Message)
+numComments=10

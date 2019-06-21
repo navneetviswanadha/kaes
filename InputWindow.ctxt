@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InputWindow
+comment1.params=
+comment1.target=InputWindow()
+comment2.params=title
+comment2.target=InputWindow(java.lang.String)
+comment3.params=b
+comment3.target=void\ setVisible(boolean)
+comment3.text=\n\ Shows\ or\ hides\ the\ component\ depending\ on\ the\ boolean\ flag\ b.\n\ @param\ b\ \ if\ true,\ show\ the\ component;\ otherwise,\ hide\ the\ component.\n\ @see\ java.awt.Component\#isVisible\n
+comment4.params=
+comment4.target=void\ addNotify()
+comment5.params=event
+comment5.target=void\ InputWindow_WindowClosing(java.awt.event.WindowEvent)
+numComments=6

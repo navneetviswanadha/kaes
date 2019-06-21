@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KinTermLabel
+comment0.text=\r\n\ <p>Title\:\ </p>\r\n\ <p>Description\:\ </p>\r\n\ <p>Copyright\:\ Copyright\ (c)\ 2002</p>\r\n\ <p>Company\:\ </p>\r\n\ @author\ unascribed\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=KinTermLabel()
+comment2.params=text
+comment2.target=void\ setKinTermLabel(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getKinTermLabel()
+comment4.params=asv
+comment4.target=java.lang.String\ makeTransliteration(AlgebraSymbolVector)
+comment4.text=\r\n\ change\ algebra\ elements\ to\ transliterated\ kin\ term\ form\r\n\ return\ transliteration\r\n
+comment5.params=asv
+comment5.target=int[]\ getArrowPattern(AlgebraSymbolVector)
+comment6.params=ap
+comment6.target=java.lang.String\ getTransliteration(AlgebraPath)
+numComments=7

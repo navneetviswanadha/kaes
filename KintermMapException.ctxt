@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=KintermMapException
+comment1.params=
+comment1.target=KintermMapException()
+comment2.params=s
+comment2.target=KintermMapException(java.lang.String)
+comment3.params=message_number\ s
+comment3.target=KintermMapException(int,\ java.lang.String)
+comment4.params=message
+comment4.target=KintermMapException(int)
+comment5.params=id
+comment5.target=void\ setId(int)
+comment6.params=
+comment6.target=int\ getId()
+numComments=7

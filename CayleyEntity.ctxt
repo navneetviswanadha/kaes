@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CayleyEntity
+comment1.params=
+comment1.target=java.util.Enumeration\ keys()
+comment2.params=s
+comment2.target=java.lang.String\ getTerm(java.lang.String)
+comment3.params=aMap
+comment3.target=StringVector\ compareCayleyTables(CayleyEntity)
+numComments=4

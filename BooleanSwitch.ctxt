@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BooleanSwitch
+comment1.params=t
+comment1.target=BooleanSwitch(boolean)
+comment10.params=
+comment10.target=java.lang.Boolean\ getValue()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=t
+comment2.target=BooleanSwitch(java.lang.Boolean)
+comment3.params=
+comment3.target=java.lang.Object\ clone()
+comment4.params=
+comment4.target=BooleanSwitch\ replace()
+comment5.params=
+comment5.target=boolean\ isTrue()
+comment6.params=
+comment6.target=boolean\ isFalse()
+comment7.params=t
+comment7.target=boolean\ setValue(boolean)
+comment8.params=
+comment8.target=boolean\ setTrue()
+comment9.params=
+comment9.target=boolean\ setFalse()
+numComments=12

@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=KinTermPosition
+comment1.params=term\ sex
+comment1.target=KinTermPosition(java.lang.String,\ java.lang.String)
+comment10.params=gen
+comment10.target=java.util.Vector\ trace(java.lang.String)
+comment10.text=\tstatic\ public\ void\ addKinTerms(String\ [][]\ kterms)\ {\r\n\t\tfor\ (int\ i\=0;i<kterms.length;i++)\ {\r\n\t\t\tString\ []\ line\ \=\ kterms[i];\r\n\t\t\tline[0]\r\n\t\t}\r\n\t}\r\n
+comment11.params=path
+comment11.target=java.lang.String\ tracePathToTerm(AlgebraSymbolVector)
+comment12.params=v\ path
+comment12.target=java.lang.String\ xxx(java.util.Vector,\ AlgebraSymbolVector)
+comment13.params=a\ path
+comment13.target=java.lang.String\ yyy(KinTermPosition,\ AlgebraSymbolVector)
+comment2.params=term\ sex
+comment2.target=void\ addTerm(java.lang.String,\ java.lang.String)
+comment3.params=term
+comment3.target=KinTermPosition\ findTerm(java.lang.String)
+comment4.params=term\ gen
+comment4.target=void\ linkTo(KinTermPosition,\ java.lang.String)
+comment5.params=term\ gen
+comment5.target=void\ linkTo(java.lang.String,\ java.lang.String)
+comment6.params=term\ gen
+comment6.target=void\ linkFrom(KinTermPosition,\ java.lang.String)
+comment7.params=term\ gen
+comment7.target=void\ linkFrom(java.lang.String,\ java.lang.String)
+comment8.params=gen
+comment8.target=void\ addGenerator(java.lang.String)
+comment9.params=gens
+comment9.target=void\ addGenerators(java.lang.String[])
+numComments=14

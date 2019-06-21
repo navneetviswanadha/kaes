@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CousinRule
+comment1.params=
+comment1.target=CousinRule()
+comment2.params=flag
+comment2.target=void\ setActiveRule(boolean)
+comment3.params=
+comment3.target=boolean\ getActiveRule()
+comment4.params=a
+comment4.target=boolean\ doesRuleApply(AlgebraPath)
+comment5.params=a
+comment5.target=boolean\ applyRule(AlgebraPath)
+numComments=6

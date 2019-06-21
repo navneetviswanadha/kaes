@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SexMarkedModel3D
+comment0.text=\ History\r\n\ 2/27\ DR\ made\ node\ radius\ an\ absolute\ value\ and\ not\ scaled\ to\ arrow\ length\r\n\ 3/3\ DR\ added\ \ Boolean\ split\ condition\ for\ bifurcating\ element\ nodes\r\n\ added\ call\ to\ drawArcArrow\ for\ reflexive\ elements\r\n\ 11/7\ DR\ added\ procedures\ doubleArrow,\ firstArrow,\ sameDirection\ to\ handle\ cases\r\n\ where\ more\ than\ one\ arrow\ connects\ a\ pair\ of\ points\r\n\ 6/18\ DR\ partially\ activated\ option\ for\ setting\ radius\ value\ of\ an\ indiviudal\ node\r\n
+comment1.params=
+comment1.target=SexMarkedModel3D()
+comment2.params=x\ xv
+comment2.target=boolean\ inList(int,\ ListVector)
+comment3.params=p1\ p2
+comment3.target=boolean\ doubleArrow(int,\ int)
+comment4.params=p1\ p2
+comment4.target=boolean\ firstArrow(int,\ int)
+comment5.params=p1\ p2
+comment5.target=boolean\ sameDirection(int,\ int)
+comment6.params=g
+comment6.target=void\ paint0(java.awt.Graphics)
+numComments=7

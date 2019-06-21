@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ImagePanel
+comment1.params=
+comment1.target=ImagePanel()
+comment2.params=url
+comment2.target=ImagePanel(java.lang.String)
+comment3.params=path\ url
+comment3.target=ImagePanel(java.lang.String,\ java.lang.String)
+comment4.params=url
+comment4.target=ImagePanel(java.net.URL)
+comment5.params=g
+comment5.target=void\ update(java.awt.Graphics)
+comment6.params=g
+comment6.target=void\ paint(java.awt.Graphics)
+comment7.params=u
+comment7.target=void\ setImageURL(java.net.URL)
+numComments=8

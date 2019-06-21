@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ProductVector
+comment1.params=
+comment1.target=ProductVector()
+comment2.params=n
+comment2.target=ProductVector(int)
+comment3.params=n\ m
+comment3.target=ProductVector(int,\ int)
+comment4.params=i
+comment4.target=Product\ getSymbol(int)
+comment5.params=deep
+comment5.target=java.lang.Object\ clone(boolean)
+comment5.text=\ clone\ the\ product\ list\r\n\ @param\ deep\ Clone\ the\ contents\ of\ the\ list\ as\ well\r\n\ @return\ the\ Clone\r\n
+comment6.params=
+comment6.target=java.lang.Object\ clone()
+comment6.text=\ clone\ the\ product\ list\ without\ cloning\ elements\r\n\ @return\ the\ Clone\r\n
+comment7.params=index
+comment7.target=void\ deleteGenerator(int)
+comment8.params=gen\ orient
+comment8.target=void\ addGenerator(KintermEntry,\ int)
+comment9.params=
+comment9.target=TransferProductsVector\ toList()
+numComments=10

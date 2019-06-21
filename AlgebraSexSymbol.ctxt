@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AlgebraSexSymbol
+comment1.params=s
+comment1.target=AlgebraSexSymbol(java.lang.String)
+comment1.text=\ define\ a\ new\ AlgebraSymbol\r\n\ @param\ s\ the\ value\ to\ assign\ to\ the\ AlgebraSymbol\r\n\ @return\ the\ new\ AlgebraSymbol\r\n
+comment2.params=
+comment2.target=AlgebraSexSymbol()
+comment2.text=\ define\ a\ new\ AlgebraSymbol\r\n\ @return\ the\ new\ AlgebraSymbol\r\n
+comment3.params=a
+comment3.target=AlgebraSymbolVector\ getProduct(AlgebraSymbolVector)
+numComments=4

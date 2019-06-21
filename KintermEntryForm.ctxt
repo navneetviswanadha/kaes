@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=KintermEntryForm
+comment1.params=
+comment1.target=KinTextEntry\ getKinText()
+comment10.params=source
+comment10.target=java.lang.String\ editTerm(java.awt.Container)
+comment11.params=source\ gen\ kp
+comment11.target=java.lang.String\ editProduct(java.awt.Container,\ int,\ java.awt.Label)
+comment2.params=tf
+comment2.target=void\ setTextRep(boolean)
+comment3.params=
+comment3.target=boolean\ getTextRep()
+comment4.params=
+comment4.target=void\ registerListeners()
+comment5.params=
+comment5.target=KintermEntryForm()
+comment6.params=v
+comment6.target=KintermEntryForm(Variables)
+comment7.params=term\ isGenerator
+comment7.target=KintermEntryForm(java.lang.String,\ boolean)
+comment8.params=g
+comment8.target=void\ drawProducts(java.awt.Graphics)
+comment9.params=g
+comment9.target=void\ setRectangles(java.awt.Graphics)
+comment9.text=\ \ routine\ to\ locate\ the\ various\ hook\ widgets\ on\ the\ terms\ border\r\n\ \ \ @param\ g\ the\ Graphics\ context\ to\ do\ the\ FontMetrics.\ Possibly\ change\ in\ future\ to\ send\ FontMetrics\ instead.\r\n
+numComments=12

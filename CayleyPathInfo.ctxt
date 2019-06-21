@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CayleyPathInfo
+comment1.params=gen\ trm\ prod
+comment1.target=CayleyPathInfo(AlgebraSymbol,\ AlgebraPath,\ AlgebraPath)
+comment2.params=gen\ trm
+comment2.target=void\ addProd(AlgebraSymbol,\ CayleyPathInfo)
+comment3.params=
+comment3.target=ListVector\ getFullPaths()
+comment4.params=prod
+comment4.target=boolean\ isProd(AlgebraPath)
+comment5.params=prod
+comment5.target=boolean\ equals(AlgebraPath)
+comment6.params=prod
+comment6.target=boolean\ equals(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

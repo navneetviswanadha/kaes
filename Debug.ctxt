@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Debug
+comment1.params=x
+comment1.target=void\ prout(java.lang.String)
+comment10.params=
+comment10.target=void\ push()
+comment11.params=
+comment11.target=void\ pop()
+comment2.params=l\ x\ dmp
+comment2.target=void\ prout(int,\ java.lang.String,\ boolean)
+comment3.params=l\ x
+comment3.target=void\ prout(int,\ java.lang.String)
+comment4.params=
+comment4.target=void\ on()
+comment5.params=l
+comment5.target=void\ on(int)
+comment6.params=
+comment6.target=void\ off()
+comment7.params=
+comment7.target=void\ dodump()
+comment8.params=
+comment8.target=void\ dump()
+comment9.params=
+comment9.target=void\ nodump()
+numComments=12

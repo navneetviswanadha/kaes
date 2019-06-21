@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RuleFactory
+comment0.text=\r\n\ <p>Title\:\ </p>\r\n\ <p>Description\:\ </p>\r\n\ <p>Copyright\:\ Copyright\ (c)\ 2002</p>\r\n\ <p>Company\:\ </p>\r\n\ @Dwight\ Read\ 6/29/03\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=RuleFactory()
+comment2.params=rule\ status
+comment2.target=void\ setInitialRuleStatus(int,\ boolean)
+comment3.params=
+comment3.target=ListVector\ getInitialRuleStatus()
+comment4.params=rule
+comment4.target=boolean\ getTheInitialRuleStatus(int)
+comment5.params=code
+comment5.target=Rule\ setRule(int)
+comment6.params=code
+comment6.target=Rule\ getRule(int)
+numComments=7

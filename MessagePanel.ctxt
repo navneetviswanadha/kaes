@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MessagePanel
+comment1.params=
+comment1.target=MessagePanel()
+comment2.params=comp
+comment2.target=java.awt.Component\ add(java.awt.Component)
+comment2.text=\ \r\n\ Adds\ the\ specified\ component\ to\ this\ container.\r\n\ @param\ comp\ the\ component\ to\ be\ added\r\n
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment3.text=\ \r\n\ Paints\ the\ container.\ \ This\ forwards\ the\ paint\ to\ any\ lightweight\ components\ \r\n\ that\ are\ children\ of\ this\ container.\ \ If\ this\ method\ is\ reimplemented,\ \r\n\ super.paint(g)\ should\ be\ called\ so\ that\ lightweight\ components\ are\ properly\r\n\ rendered.\ \ If\ a\ child\ component\ is\ entirely\ clipped\ by\ the\ current\ clipping\r\n\ setting\ in\ g,\ paint()\ will\ not\ be\ forwarded\ to\ that\ child.\r\n\r\n\ @param\ g\ the\ specified\ Graphics\ window\r\n\ @see\ \ \ java.awt.Component\#update(java.awt.Graphics)\r\n
+comment4.params=m
+comment4.target=void\ addMessage(MessageLine)
+comment5.params=
+comment5.target=void\ removeMessages()
+comment6.params=event
+comment6.target=void\ verticalScrollbar1_AdjustmentValueChanged(java.awt.event.AdjustmentEvent)
+numComments=7

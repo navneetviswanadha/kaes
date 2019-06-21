@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.target=KinshipTermsMapPanel
+comment0.text=\ Revision\ History\r\n\ 16/7/04\ MF\ created\r\n\ 06/08/19\ DR\ Changed\ Collateral+,\ Collateral-\ to\ Collateral-,\ Collateral+\ so\ that\ \r\n\ Collateral+\ \=\ 3\ (\=\ LEFT)\ and\ Collateral-\ \=\ 2\ (\=\ RIGHT)\r\n
+comment1.params=kp
+comment1.target=KinshipTermsMapPanel(KinshipTermsPanel)
+comment10.params=event
+comment10.target=void\ KinshipTermsPanel_MouseDragged(java.awt.event.MouseEvent)
+comment11.params=event
+comment11.target=void\ arrowSelect_ItemStateChanged(java.awt.event.ItemEvent)
+comment12.params=event
+comment12.target=void\ sexChoice_ItemStateChanged(java.awt.event.ItemEvent)
+comment13.params=event
+comment13.target=void\ generatorCheckbox_ItemStateChanged(java.awt.event.ItemEvent)
+comment14.params=event
+comment14.target=void\ KinshipTermsPanel_componentResized(java.awt.event.ComponentEvent)
+comment15.params=event
+comment15.target=void\ KinshipTermsPanel_KeyReleased(java.awt.event.KeyEvent)
+comment16.params=event
+comment16.target=void\ etcCheckbox_ItemStateChanged(java.awt.event.ItemEvent)
+comment2.params=event
+comment2.target=void\ KinshipTermsPanel_WindowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ addNotify()
+comment4.params=event
+comment4.target=void\ termChoice_ItemStateChanged(java.awt.event.ItemEvent)
+comment5.params=k\ gen\ kp
+comment5.target=void\ editProduct(KintermEntryForm,\ int,\ java.awt.Label)
+comment6.params=kte
+comment6.target=void\ editKinterm(KintermEntryForm)
+comment7.params=event
+comment7.target=void\ button2_MouseReleased(java.awt.event.MouseEvent)
+comment8.params=event
+comment8.target=void\ KinshipTermsPanel_MousePressed(java.awt.event.MouseEvent)
+comment9.params=event
+comment9.target=void\ KinshipTermsPanel_MouseReleased(java.awt.event.MouseEvent)
+numComments=17

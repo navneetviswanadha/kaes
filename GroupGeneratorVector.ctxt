@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GroupGeneratorVector
+comment1.params=
+comment1.target=GroupGenerator\ backup()
+comment10.params=a
+comment10.target=void\ process(AlgebraSymbolVector)
+comment2.params=
+comment2.target=GroupGenerator\ getNextSymbol()
+comment3.params=
+comment3.target=GroupGenerator\ getFirst()
+comment4.params=
+comment4.target=GroupGenerator\ getLast()
+comment5.params=
+comment5.target=GroupGenerator\ getSymbol()
+comment6.params=i
+comment6.target=GroupGenerator\ getSymbol(int)
+comment7.params=p
+comment7.target=void\ interpret(GroupProcessor)
+comment8.params=
+comment8.target=void\ interpret()
+comment9.params=
+comment9.target=void\ interpretModified()
+numComments=11

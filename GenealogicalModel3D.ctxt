@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GenealogicalModel3D
+comment0.text=\ History\n
+comment1.params=
+comment1.target=GenealogicalModel3D()
+comment2.params=g
+comment2.target=void\ paint0(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ setMatBounds()
+numComments=4

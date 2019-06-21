@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AlgebraPathVector
+comment0.text=\ History\r\n\ 11/21\ DR\ added\ procedure\ splitEquivalentPaths()\r\n
+comment1.params=
+comment1.target=AlgebraPath\ getNextSymbol()
+comment2.params=i
+comment2.target=AlgebraPath\ getSymbol(int)
+comment3.params=p
+comment3.target=boolean\ addUnique(AlgebraPath)
+comment4.params=p
+comment4.target=boolean\ addUniqueFullpath(AlgebraPath)
+comment5.params=
+comment5.target=AlgebraPathVector\ splitEquivalentPaths()
+numComments=6

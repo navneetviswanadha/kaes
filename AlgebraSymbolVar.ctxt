@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AlgebraSymbolVar
+comment1.params=s
+comment1.target=AlgebraSymbolVar(boolean)
+comment10.params=s
+comment10.target=java.lang.String\ getValue(AlgebraSymbol)
+comment11.params=
+comment11.target=AlgebraSymbol\ getAlgebraSymbol()
+comment12.params=x
+comment12.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=AlgebraSymbolVar()
+comment3.params=x
+comment3.target=AlgebraSymbolVar(AlgebraSymbol)
+comment4.params=s
+comment4.target=AlgebraSymbolVar(java.lang.String)
+comment5.params=
+comment5.target=java.lang.Object\ clone()
+comment6.params=s
+comment6.target=void\ setSet(AlgebraSymbolVector)
+comment7.params=
+comment7.target=void\ unBind()
+comment8.params=s
+comment8.target=void\ setValue(AlgebraSymbol)
+comment9.params=
+comment9.target=java.lang.String\ getValue()
+numComments=13

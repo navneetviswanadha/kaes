@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TermTable
+comment1.params=
+comment1.target=TermTable()
+comment2.params=term\ path
+comment2.target=void\ defTermPath(java.lang.String,\ AlgebraSymbolVector)
+comment3.params=path
+comment3.target=java.lang.String\ getTerm(java.lang.String)
+comment4.params=path
+comment4.target=java.lang.String\ getTerm(AlgebraSymbolVector)
+comment5.params=term
+comment5.target=java.util.Vector\ getPaths(java.lang.String)
+numComments=6

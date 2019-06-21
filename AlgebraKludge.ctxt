@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AlgebraKludge
+comment0.text=\r\n\ A\ structure\ shared\ by\ all\ related\ AlgebraSymbols\r\n\ Provides\ some\ global\ glue\r\n\r\n\ @version\ \t1.0\ 12/10/99\r\n\ @author\ \tMichael\ D.\ Fischer\ &\ Dwight\ W.\ Read\r\n
+comment1.params=spath
+comment1.target=AlgebraSymbolVector\ preprocess(java.lang.String)
+comment1.text=\r\n\ preprocess\ a\ path\ in\ a\ string\ to\ an\ unnormalised\ AlgebraSymbolVector.\r\n\ @param\ spath\ a\ string\ of\ algebraic\ path\ elements\r\n\ @return\ unnormalised\ list\ of\ AlgebraSymbols\r\n\ @see\ Algebra\r\n
+comment2.params=av
+comment2.target=AlgebraSymbolVector\ process(AlgebraSymbolVector)
+comment2.text=\r\n\ Produce\ a\ normalised\ AlgebraSymbolVecto\ from\ an\ unnormalised\ one.\r\n\ @param\ av\ a\ list\ of\ algebraic\ path\ elements\r\n\ @return\ normalised\ list\ of\ AlgebraSymbols\r\n
+comment3.params=av\ prep
+comment3.target=java.util.Vector\ postprocess(AlgebraSymbolVector,\ AlgebraSymbol)
+comment3.text=\r\n\ Ideosyncratic\ for\ AKT\ ...\ generalise\ later\r\n\ adds\ prep\ to\ end\ of\ av\ -\ handles\ sex\ marked\ terms\r\n\ @param\ av\ \r\n\ @param\ prep\ \r\n\ @return\ result\ suitable\ for\ translating\ into\ lexical\ terms\r\n
+comment4.params=av
+comment4.target=java.util.Vector\ nfurcate(AlgebraSymbolVector)
+comment4.text=\r\n\ Ideosyncratic\ for\ AKT\ ...\ generalise\ later\r\n\ bifurcates\ based\ on\ sex\ marked\ terms\r\n\ uses\ the\ fearsome\ lastComponent\r\n\ @param\ av\ list\ of\ algebra\ terms\r\n\ @return\ result\ suitable\ for\ translating\ AlgebraSymbols\ into\ lexical\ terms\r\n\ @see\ \#lastComponent\r\n
+comment5.params=a
+comment5.target=java.lang.String[]\ algebraSymbolToComponents(AlgebraSymbol)
+comment5.text=\ Decomposes\ an\ AlgebraSymbol\ into\ its\ feature\ components\r\n\t@param\ a\ The\ AlgebraSymbol\ to\ decompose\r\n\t@return\ array[2]\ of\ components\ 0\=name\ 1\=sex\r\n\tWe\ must\ extend\ this\ routine\ in\ future\ to\ accommode\ more\ variables\r\n
+comment6.params=p
+comment6.target=AlgebraSymbolVector\ reciprocal(AlgebraSymbolVector)
+comment7.params=kinType\ kinTerm\ normKinTerm
+comment7.target=InstantiationEquivalence\ addEquivalence(java.lang.String,\ AlgebraSymbol,\ AlgebraSymbol)
+comment8.params=kint
+comment8.target=AlgebraSymbol\ getNorm(AlgebraSymbol)
+comment9.params=
+comment9.target=java.lang.Object\ clone()
+numComments=10

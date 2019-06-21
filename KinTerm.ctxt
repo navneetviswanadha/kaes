@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=KinTerm
+comment1.params=
+comment1.target=KinTerm()
+comment2.params=term
+comment2.target=KinTerm(java.lang.String)
+comment3.params=term\ sex
+comment3.target=KinTerm(java.lang.String,\ java.lang.String)
+comment4.params=f
+comment4.target=boolean\ isMe(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getTerm()
+comment6.params=
+comment6.target=java.lang.String\ getSex()
+comment7.params=term
+comment7.target=void\ setTerm(java.lang.String)
+comment8.params=mm
+comment8.target=void\ setSex(java.lang.String)
+numComments=9

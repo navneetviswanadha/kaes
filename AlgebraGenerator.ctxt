@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AlgebraGenerator
+comment1.params=a
+comment1.target=AlgebraGenerator(AlgebraSymbol)
+comment2.params=
+comment2.target=java.lang.String\ toXML()
+comment3.params=a
+comment3.target=AlgebraSymbolVector\ getProduct(AlgebraSymbolVector)
+comment3.text=\t\r\n\tpublic\ AlgebraGenerator\ newGenerator(String\ element,\ int\ rel)\ {\r\n\t\tAlgebraGenerator\ a\ \=\ new\ AlgebraGenerator(element,rel);\r\n\t\ta.generators\ \=\ generators;\r\n\t\ta.elementGenerators\ \=\ elementGenerators;\r\n\t\telementGenerators.put(element,a);\r\n\t\treturn\ a;\r\n\t}\r\n\r\n\tpublic\ AlgebraGenerator\ getGenerator(String\ element)\ {\r\n\t\treturn\ (AlgebraGenerator)\ elementGenerators.get(element);\r\n\t}\r\n\r\n\tpublic\ int\ getArrow(String\ element)\ {\r\n\t\treturn\ ((AlgebraGenerator)\ elementGenerators.get(element)).getArrow();\r\n\t}\r\n\t\r\n\tpublic\ int\ getArrow()\ {\r\n\t\treturn\ arrow;\r\n\t}\r\n\t\r\n\tpublic\ void\ addGeneratorProduct(AlgebraGenerator\ a,String\ product)\ {\r\n\t\tgenerators.put(a,product);\r\n\t}\r\n\t\r\n\tpublic\ String\ getProduct(AlgebraGenerator\ a)\ {\r\n\t\treturn\ (String)\ generators.get(a);\r\n\t}\r\n
+numComments=4

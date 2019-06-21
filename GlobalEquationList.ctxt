@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GlobalEquationList
+comment1.params=e
+comment1.target=void\ setEquations(EquationVector)
+comment2.params=
+comment2.target=EquationVector\ getEquations()
+numComments=3

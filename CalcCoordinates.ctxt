@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CalcCoordinates
+comment1.params=c
+comment1.target=CalcCoordinates(CayleyTable)
+comment10.params=ap
+comment10.target=int\ numberDifferentGenerators(AlgebraPath)
+comment2.params=
+comment2.target=void\ calcCoordinates()
+comment3.params=
+comment3.target=int\ numberOfGenerators()
+comment4.params=g
+comment4.target=int\ generatorNumber(AlgebraSymbol)
+comment5.params=g
+comment5.target=int\ resetDimension(AlgebraSymbol)
+comment6.params=g
+comment6.target=int\ resetSibDimension(AlgebraSymbol)
+comment7.params=thePath\ gen
+comment7.target=float\ useCalcMethod1(AlgebraPath,\ java.lang.String)
+comment8.params=thePath\ j\ dim\ gen
+comment8.target=float\ useCalcMethod2(AlgebraPath,\ int,\ int,\ java.lang.String)
+comment9.params=
+comment9.target=boolean\ reverseCoords()
+numComments=11
