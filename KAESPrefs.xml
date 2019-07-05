@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
 <Preferences>
-    <Maximum_descending_links value="2"/>
     <Maximum_ascending_links value="2"/>
+    <Maximum_descending_links value="2"/>
     <vector>
         <Strings>
             <String>abcdefg</String>
@@ -11,8 +11,9 @@
         </Strings>
     </vector>
     <Maximum_affinal_links value="1"/>
-    <LastFilename value="/Users/Dwight/Documents/My Documents/HopiMSRevised.xml"/>
     <Maximum_collateral_links value="2"/>
+    <LastFilename value="C:\Users\navne\Desktop\Telugu_Updated.xml"/>
     <Terminology_type-_Trobriand_or_Tongan value="Trobriand"/>
     <Maximum_product_size value="7"/>
 </Preferences>
+
